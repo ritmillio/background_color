@@ -1,2 +1,2 @@
-# background_color
+# background_generator
 linear-background generator
